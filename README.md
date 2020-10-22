@@ -38,6 +38,11 @@ solamente con host de su mismo departamento.
 ![7](https://user-images.githubusercontent.com/8570475/96743758-8e0f2c00-1381-11eb-9f0f-f0131af0d951.png)
 ![8](https://user-images.githubusercontent.com/8570475/96743803-98312a80-1381-11eb-8e57-f4d3209fe2f4.png)
 ![9](https://user-images.githubusercontent.com/8570475/96743859-a8490a00-1381-11eb-855c-103f3ba5dfdc.png)
+## ** recorrido **
+![recalcular](https://user-images.githubusercontent.com/8570475/96824246-897f5d80-13eb-11eb-87c6-5ee373bb47bf.png)
+
+
+
 ## ** Paquetes Wireshark **
 
 ![222](https://user-images.githubusercontent.com/8570475/96743313-180ac500-1381-11eb-86fd-a5fffe0e422a.png)
